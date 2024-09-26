@@ -21,13 +21,20 @@
 #     print(result_4)
 
 
-
-
-# list_1 = list(range(0, 10, 2))
-# print(list_1)
-# list_1 = list(range(1, 10, 2))
-# print(list_1)
+# some_list_1 = [1,2,3,4,5]
+# if some_list_1:
+#     mid_of_list = (len(some_list_1) + 1) // 2
+#     new_list_1 = some_list_1[:mid_of_list]
+#     new_list_2 = some_list_1[mid_of_list:]
+# else:
+#     new_list_1 = some_list_1
+#     new_list_2 = []
+#     new_list_3 = (new_list_1, new_list_2)
+#     print(new_list_3)
+#
 
 # nambers = [1, 2, 3, 4,]
 # nambers.insert(0,nambers.pop() )
 # print(nambers)
+
+
